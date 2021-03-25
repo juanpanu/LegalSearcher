@@ -131,3 +131,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 model/
+ElasticSearch/cons_codes.parq
+SentenceEncoder/flask-ml/pre_trained_model/saved_model.pb
+SentenceEncoder/flask-ml/pre_trained_model/variables/variables.data-00000-of-00001
+SentenceEncoder/flask-ml/pre_trained_model/variables/variables.index
